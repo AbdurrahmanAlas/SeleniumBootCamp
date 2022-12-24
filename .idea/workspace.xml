@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8331083-1662-4acf-b62b-6a992d5b25b9" name="Changes" comment="" />
+    <list default="true" id="a8331083-1662-4acf-b62b-6a992d5b25b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +53,7 @@
       <recent name="C:\Selenium\Team105Selenium\src\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question1">
+  <component name="RunManager" selected="Application.Question2">
     <configuration name="C01_CssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day04_xpath_cssSelector.C01_CssSelector" />
       <module name="Team105Selenium" />
@@ -104,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deneme.deneme" />
+    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Question2" />
       <module name="Team105Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deneme.*" />
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question2" />
         <item itemvalue="Application.Question1" />
         <item itemvalue="Application.C02_ZeroTest" />
         <item itemvalue="Application.C01_MavenIlkTest" />
         <item itemvalue="Application.C01_CssSelector" />
-        <item itemvalue="Application.deneme" />
       </list>
     </recent_temporary>
   </component>
