@@ -53,20 +53,7 @@
       <recent name="C:\Selenium\Team105Selenium\src\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question2">
-    <configuration name="C01_CssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04_xpath_cssSelector.C01_CssSelector" />
-      <module name="Team105Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day04_xpath_cssSelector.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Question3">
     <configuration name="C01_MavenIlkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day05_maven.C01_MavenIlkTest" />
       <module name="Team105Selenium" />
@@ -119,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Question3" />
+      <module name="Team105Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question3" />
         <item itemvalue="Application.Question2" />
         <item itemvalue="Application.Question1" />
         <item itemvalue="Application.C02_ZeroTest" />
         <item itemvalue="Application.C01_MavenIlkTest" />
-        <item itemvalue="Application.C01_CssSelector" />
       </list>
     </recent_temporary>
   </component>
